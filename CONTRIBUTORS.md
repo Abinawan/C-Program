@@ -21,3 +21,7 @@ Github link:  https://github:com/meprajwal</p>
 location : Jhapa , Nepal <br>
 Github link : https://github.com/rachannzz</p>
 
+<p>Name: Abinawan Bhattarai <br>
+Location: Kathmandu <br>
+Github link: https://github.com/abinawan </p>
+
